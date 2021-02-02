@@ -49,9 +49,13 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "./node_modules/jquery/dist/jquery.min.js",
+              "./node_modules/bootstrap/dist/js/bootstrap.min.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -115,7 +119,9 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "./node_modules/bootstrap/dist/js/bootstrap.min.js"
+            ]
           }
         },
         "lint": {
@@ -144,6 +150,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "coronavirus"
+    }
+  },
+  "defaultProject": "coronavirus",
+  "cli": {
+    "analytics": "05efec25-d28d-4c26-9f89-694e9e7345d0"
+  }
 }

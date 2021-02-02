@@ -1,0 +1,20 @@
+[
+    {"name": "Dakar Ouest", "nombre": 1129},
+    {"name": "Dakar Center", "nombre": 1029},
+    {"name": "Dakar Sud", "nombre": 976},
+    {"name": "Dakar Nord", "nombre": 939},
+    {"name": "Touba", "nombre": 522},
+    {"name": "Guédiawaye", "nombre": 355},
+    {"name": "Mbao", "nombre": 274},
+    {"name": "Thiès", "nombre": 240},
+    {"name": "Rufisque", "nombre": 213},
+    {"name": "Keur Massar", "nombre": 162},
+    {"name": "Pikine", "nombre": 152},
+    {"name": "Tivaouane", "nombre": 149},
+    {"name": "Sangalkam", "nombre": 126},
+    {"name": "Ziguinchor", "nombre": 120},
+    {"name": "Yeumbeul", "nombre": 113},
+    {"name": "Sédhiou", "nombre": 108},
+    {"name": "Popenguine", "nombre": 104},
+    {"name": "Diamniadio", "nombre": 92}
+]
